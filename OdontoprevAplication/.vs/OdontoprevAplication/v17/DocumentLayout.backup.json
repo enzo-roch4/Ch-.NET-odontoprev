@@ -1,25 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\",
+  "WorkspaceRootPath": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\odontoprevaplication\\odontoprevaplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\odontoprevaplication\\odontoprevaplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\odontoprevaplication\\odontoprevaplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\odontoprevaplication\\odontoprevaplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\odontoprevaplication\\odontoprevaplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\controllers\\createcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\controllers\\createcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\models\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\models\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\repositories\\fotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\repositories\\fotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|d:\\enzo\\aulasfiap\\odontoprev.net\\ch-.net-odontoprev\\odontoprevaplication\\odontoprevaplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0556519-FC30-436F-A7FD-32AE44ABCBF9}|OdontoprevAplication\\OdontoprevAplication.csproj|solutionrelative:odontoprevaplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,71 +78,227 @@
       "DocumentGroups": [
         {
           "DockedHeight": 277,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "OdontoprevAplication\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T18:03:05.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "OdontoprevAplication\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T18:03:04.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OdontoprevAplication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T18:01:30.505Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Program.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Program.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Program.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:05:16.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\Home\\Create.cshtml",
-              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "OdontoprevAplication\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T17:59:36.872Z",
+              "Title": "CreateController.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Controllers\\CreateController.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Controllers\\CreateController.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Controllers\\CreateController.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Controllers\\CreateController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:43:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Services\\UsuarioService.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:30:25.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:10:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\appsettings.Development.json",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\appsettings.Development.json",
+              "RelativeToolTip": "OdontoprevAplication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T20:59:05.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\OdontoprevAplication\\OdontoprevAplication\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "OdontoprevAplication\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "OdontoprevAplication\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T17:56:12.17Z",
+              "WhenOpened": "2024-10-06T19:07:40.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Foto.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Models\\Foto.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Models\\Foto.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Models\\Foto.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Models\\Foto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:37:48.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Models\\Usuario.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Models\\Usuario.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:45:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:46:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:51:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "OdontoprevAplication\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T21:12:52.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FotoRepository.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Repositories\\FotoRepository.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Repositories\\FotoRepository.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Repositories\\FotoRepository.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Repositories\\FotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:38:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:02:06.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OdontoprevAplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T18:36:14.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "OdontoprevAplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:04:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "OdontoprevAplication\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:36:06.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OdontoprevAplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\ODONTOPREV.NET\\Ch-.NET-odontoprev\\OdontoprevAplication\\OdontoprevAplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OdontoprevAplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T18:01:30.505Z",
               "EditorCaption": ""
             }
           ]

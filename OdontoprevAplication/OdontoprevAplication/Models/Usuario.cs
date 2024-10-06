@@ -25,10 +25,8 @@ namespace Odontoprev.Domain
     
         public required DateTime DataCriacao { get; set; }
 
-        // Relacionamento com Fotos 
         public ICollection<Foto> Fotos { get; set; }
 
-        // Relacionamento com Notificacoes
         public ICollection<Notificacao> Notificacoes { get; set; }
     }
 }

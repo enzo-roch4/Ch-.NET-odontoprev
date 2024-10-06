@@ -8,6 +8,16 @@ namespace Odontoprev.Services
         private readonly IUsuarioRepository _usuarioRepository;
         private readonly IFotoRepository _fotoRepository;
 
+        public UsuarioService(IUsuarioRepository usuarioRepository)
+        {
+            _usuarioRepository = usuarioRepository;
+        }
+
+        public void Add(Usuario usuario)
+        {
+            _usuarioRepository.Add(usuario);
+        }
+
         public UsuarioService(IUsuarioRepository usuarioRepository, IFotoRepository fotoRepository)
         {
             _usuarioRepository = usuarioRepository;
@@ -36,9 +46,5 @@ namespace Odontoprev.Services
             _fotoRepository.Add(foto);
         }
 
-        public void Add(Usuario usuario)
-        {
-            _usuarioRepository.Add(usuario);
-        }
     }
 }

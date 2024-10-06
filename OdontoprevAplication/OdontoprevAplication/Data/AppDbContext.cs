@@ -1,30 +1,39 @@
-
 using Microsoft.EntityFrameworkCore;
-using Odontoprev.Domain;
-using System.Data.Entity;
+using Odontoprev.Domain;  // Certifique-se de que está utilizando o namespace correto para suas entidades
 
 namespace Odontoprev.Data
 {
-    public class AppDbContext : System.Data.Entity.DbContext
+    public class AppDbContext : DbContext
     {
-    
-        public required System.Data.Entity.DbSet<Usuario>? Usuarios { get; set; }
-        public required System.Data.Entity.DbSet<Foto> Fotos { get; set; }
-        public required System.Data.Entity.DbSet<Erro> Erros { get; set; }
-        public required System.Data.Entity.DbSet<Processo> Processos { get; set; }
-        public required System.Data.Entity.DbSet<Notificacao> Notificacoes { get; set; }
-        public required System.Data.Entity.DbSet<Sair> Sair { get; set; }
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+            : base(options)
+        {
+        }
 
-        //public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+        // DbSet para a entidade Usuario
+        public DbSet<Usuario> Usuarios { get; set; }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Usuario>().ToTable("Usuarios");
-        //    modelBuilder.Entity<Foto>().ToTable("Fotos");
-        //    modelBuilder.Entity<Erro>().ToTable("Erros");
-        //    modelBuilder.Entity<Processo>().ToTable("Processos");
-        //    modelBuilder.Entity<Notificacao>().ToTable("Notificacoes");
-        //    modelBuilder.Entity<Sair>().ToTable("Sair");
-        //}
+        // DbSet para outras entidades do projeto
+        public DbSet<Foto> Fotos { get; set; }
+        public DbSet<Notificacao> Notificacoes { get; set; }
+
+        // Configuração adicional de relacionamento e comportamento das entidades, se necessário
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // Aqui você pode configurar relacionamentos ou outras propriedades avançadas
+            modelBuilder.Entity<Usuario>()
+                .HasMany(u => u.Fotos)
+                .WithOne(f => f.Usuario)
+                .HasForeignKey(f => f.UsuarioId); // Definir a chave estrangeira
+
+            modelBuilder.Entity<Usuario>()
+                .HasMany(u => u.Notificacoes)
+                .WithOne(n => n.Usuario)
+                .HasForeignKey(n => n.UsuarioId); // Definir a chave estrangeira
+
+            // Adicionar mais configurações se necessário
+        }
     }
 }

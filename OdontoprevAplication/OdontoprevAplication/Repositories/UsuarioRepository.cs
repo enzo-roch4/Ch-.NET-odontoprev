@@ -27,7 +27,7 @@ namespace Odontoprev.Repositories
 
         public void Update(Usuario usuario)
         {
-            _context.Usuarios.AddOrUpdate(usuario);
+            _context.Usuarios.Update(usuario);
             _context.SaveChanges();
         }
 

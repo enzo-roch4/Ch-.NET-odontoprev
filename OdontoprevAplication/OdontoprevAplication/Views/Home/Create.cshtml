@@ -2,7 +2,7 @@
 
 <h2>Criar Novo Usuário</h2>
 
-<form asp-action="Create" method="post">
+<form asp-action="CreateUser" asp-controller="Create" method="post">
     <div class="form-group">
         <label for="Nome">Nome</label>
         <input type="text" class="form-control" asp-for="Nome" required />
@@ -20,8 +20,10 @@
         <input type="password" class="form-control" asp-for="Senha" required />
         <span asp-validation-for="Senha" class="text-danger"></span>
     </div>
-
-    <button type="submit" class="btn btn-primary">Criar</button>
+    
+    <div class="d-flex mt-3">
+        <button type="submit" class="btn btn-primary me-2">Criar</button>
+        <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+    </div>
 </form>
 
-<a asp-action="Index">Voltar</a>
