@@ -4,11 +4,15 @@ Odontoprev é um sistema de análise odontológica desenvolvido com .NET Core e 
 
 Funcionalidades:
 
-Cadastro de Usuários: Possível cadastrar usuários que podem fazer upload de fotos odontológicas.
-Análise de Imagens: O sistema utiliza Machine Learning para analisar as imagens enviadas e detectar possíveis problemas odontológicos.
-Gestão de Sinistros: Auxilia na aprovação ou rejeição de sinistros de seguro odontológico com base nos resultados da análise.
+**Cadastro de Usuários**: Possível cadastrar usuários que podem fazer upload de fotos odontológicas.
+- **Análise de Imagens**: O sistema utiliza Machine Learning para analisar as imagens enviadas e detectar possíveis problemas odontológicos.
+- **Gestão de Sinistros**: Auxilia na aprovação ou rejeição de sinistros de seguro odontológico com base nos resultados da análise.
 
-Requisitos:
+  **Requisitos Não Funcionais**:
+  - Desempenho aceitável para a análise de imagens.
+  - Segurança adequada no armazenamento e tratamento dos dados dos usuários.
+
+**Requisitos Funcionais**:
 
 .NET 6 SDK ou superior
 SQL Server (ou outro banco de dados compatível com o Entity Framework Core)
