@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Odontoprev.Domain.Usuario>
+
+    <h2>Lista de Usuários</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>CPF</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+           @*  @foreach (var usuario in Model)
+        {
+            <tr>
+                <td>@usuario.Nome</td>
+                <td>@usuario.Cpf</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@usuario.IdUser">Deletar</a>
+                </td>
+            </tr>
+        } *@
+        </tbody>
+    </table>
+
+    <a asp-action="Create">Adicionar Usuário</a>
