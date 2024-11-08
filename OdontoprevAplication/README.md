@@ -71,3 +71,5 @@ ASP.NET Core MVC: Framework principal utilizado para desenvolver a aplicação.
 Entity Framework Core: Utilizado para o mapeamento objeto-relacional (ORM) e interação com o banco de dados.
 Oracke Server: Banco de dados utilizado para armazenar as informações.
 Machine Learning: Integração com modelos de ML para análise de imagens odontológicas.
+
+Se tudo ocorrer conforme esperado, aparecerá a lista de usuários que planejamos.
